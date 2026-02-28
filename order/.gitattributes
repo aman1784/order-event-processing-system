@@ -1,0 +1,25 @@
+# Maven build directories
+/target/
+/build/
+/out/
+/logs/
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# IDE settings
+.idea/
+.vscode/
+
+# Custom logs and temp files
+kraft-logs/
+*.log
+*.uuid
+
+# Environment files
+.env
+
+# Node.js dependencies
+node_modules/
